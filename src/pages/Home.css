@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    padding: 200px;
+  }
+  
+  .signin-container {
+    flex: 1;
+  }
+  
+  .ad-image img {
+    width: 250%;
+    height: 450px;
+    max-width: 550px;
+  }
+  

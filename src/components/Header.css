@@ -1,0 +1,10 @@
+.header {
+    background-color: #561f11; /*  color */
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

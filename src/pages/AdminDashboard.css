@@ -1,0 +1,27 @@
+.admin-dashboard {
+  text-align: center;
+  padding: 20px;
+}
+
+.admin-links {
+  display: flex;
+  flex-direction: column; /* This ensures the links are in a column */
+  align-items: center;     /* Centers the links horizontally */
+  gap: 20px;               /* Adds space between the links */
+}
+
+.admin-link {
+  font-size: 18px;
+  color: #fff;
+  background-color: #333;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  width: 200px;             /* You can adjust the width as needed */
+  text-align: center;        /* Centers text inside the button */
+}
+
+.admin-link:hover {
+  background-color: #555;
+}
